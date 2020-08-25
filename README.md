@@ -1,2 +1,2 @@
-# Memory-Game-
+# Memory-Game
 Create game with javascript 
